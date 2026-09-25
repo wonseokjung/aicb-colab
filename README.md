@@ -7,6 +7,7 @@
 |---|---|---|
 | 타이타닉 딥러닝 첫걸음 — 실습 + 대회 답안지 만들기 | 1·2강 · 파일 올리기 없이 명단을 자동으로 받아옵니다 | [![코랩에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wonseokjung/aicb-colab/blob/main/%ED%83%80%EC%9D%B4%ED%83%80%EB%8B%89_%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%B2%AB%EA%B1%B8%EC%9D%8C.ipynb) |
 | RAG 책가방 — 논문을 코드로 | 6강 부록 · 리트리버와 생성기를 직접 붙여 봅니다 | [![코랩에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wonseokjung/aicb-colab/blob/main/%EB%A1%9C%EC%BB%ACAI_6%EA%B0%95_RAG_%EC%B1%85%EA%B0%80%EB%B0%A9.ipynb) |
+| 거절 방향 실험 — 언센서드 모델은 어떻게 만들어질까 | 과일 색 두뇌로 abliteration 원리 재현 · CPU 1분 · 위험한 내용 없음 | [![코랩에서 열기](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wonseokjung/aicb-colab/blob/main/%EA%B1%B0%EC%A0%88%EB%B0%A9%ED%96%A5_%EC%8B%A4%ED%97%98.ipynb) |
 
 ## 타이타닉 대회
 
