@@ -17,3 +17,5 @@
 
 ---
 Connect AI LAB · AI CITY BUILDERS · https://www.aicitybuilders.com
+| [강화학습_DQN_벽돌깨기.ipynb](https://colab.research.google.com/github/wonseokjung/aicb-colab/blob/main/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_DQN_%EB%B2%BD%EB%8F%8C%EA%B9%A8%EA%B8%B0.ipynb) | 강화학습 완전 기초 — 아타리 벽돌깨기 DQN, 영상·Q값 |
+| [강화학습_벽돌깨기_대회.ipynb](https://colab.research.google.com/github/wonseokjung/aicb-colab/blob/main/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5_%EB%B2%BD%EB%8F%8C%EA%B9%A8%EA%B8%B0_%EB%8C%80%ED%9A%8C.ipynb) | 벽돌깨기 대회 — 1분 학습 후 brain.json 제출 |
